@@ -83,3 +83,9 @@
 - M PF.Src/Core/Phrase.php
 - M PF.Src/Core/Theme/CSS.php
 - M PF.Src/Core/Theme/Objects.php
+- M PF.Base/include/library/phpfox/cron/cron.class.php
+- M PF.Base/include/library/phpfox/validator/validator.class.php
+- M PF.Base/module/ban/template/default/controller/admincp/default.html.php
+- A PF.Base/module/core/include/component/controller/charts-demo.class.php
+- A PF.Base/module/core/template/default/controller/charts-demo.html.php
+- A PF.Base/static/jscript/chart.js
