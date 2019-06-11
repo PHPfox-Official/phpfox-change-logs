@@ -71,6 +71,7 @@
 - M PF.Base/module/user/include/service/password.class.php
 - M PF.Base/module/user/include/service/process.class.php
 - M PF.Base/module/user/include/service/register.class.php
+- M PF.Base/module/user/include/service/user.class.php
 - M PF.Base/module/user/include/service/verify/verify.class.php
 - M PF.Base/module/user/template/default/block/register/step1.html.php
 - M PF.Base/module/user/template/default/block/register/step2.html.php
