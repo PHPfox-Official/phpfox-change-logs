@@ -6,6 +6,9 @@
 - M PF.Base/include/library/phpfox/template/cache.class.php
 - M PF.Base/include/library/phpfox/validator/validator.class.php
 - M PF.Base/include/library/phpfox/xml/parser.class.php
+- M PF.Base/include/library/phpfox/file/file.class.php
+- M PF.Base/include/library/phpfox/image/library/gd.class.php
+- M PF.Base/include/library/phpfox/parse/output.class.php
 - M PF.Base/install/include/app.default.php
 - M PF.Base/install/include/installer.class.php
 - M PF.Base/less/bootstrap/dropdowns.less
@@ -25,6 +28,7 @@
 - M PF.Base/module/core/include/component/controller/admincp/country/child/add.class.php
 - M PF.Base/module/core/include/service/country/process.class.php
 - M PF.Base/module/core/include/service/currency/currency.class.php
+- M PF.Base/module/core/include/plugin/bundle__start.php
 - M PF.Base/module/core/template/default/block/category.html.php
 - M PF.Base/module/core/template/default/block/template-notification-sm.html.php
 - M PF.Base/module/core/template/default/block/template-notification-xs.html.php
@@ -77,6 +81,8 @@
 - M PF.Base/module/user/template/default/block/register/step2.html.php
 - M PF.Base/module/user/template/default/block/user_filter_admin.html.php
 - M PF.Base/static/jscript/main.js
+- M PF.Base/static/jscript/dropzone.js
+- A PF.Base/static/jscript/exif.js
 - M PF.Base/theme/adminpanel/default/template/template.html.php
 - M PF.Site/Apps/core-flavors/start.php
 - M PF.Site/Apps/core/Install.php
