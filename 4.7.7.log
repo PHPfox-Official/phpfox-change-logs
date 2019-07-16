@@ -510,8 +510,11 @@
 - M PF.Base/module/track/include/service/callback.class.php
 - M PF.Base/module/track/include/service/process.class.php
 - M PF.Base/module/track/include/service/track.class.php
+- M PF.Base/module/track/template/default/block/recent-views.html.php
 - M PF.Base/module/user/include/component/ajax/ajax.class.php
+- M PF.Base/module/user/include/component/block/listing-item.class.php
 - M PF.Base/module/user/include/component/block/profile-photo.class.php
+- M PF.Base/module/user/include/component/block/tooltip.class.php
 - M PF.Base/module/user/include/component/controller/admincp/add.class.php
 - M PF.Base/module/user/include/component/controller/export.class.php
 - M PF.Base/module/user/include/service/activity.class.php
@@ -524,6 +527,7 @@
 - M PF.Base/module/user/template/default/block/friendship.html.php
 - M PF.Base/module/user/template/default/block/register/step1.html.php
 - M PF.Base/module/user/template/default/controller/lost-password.html.php
+- M PF.Base/static/jscript/user_info.js
 - M PF.Base/theme/adminpanel/default/style/default/css/layout.css
 - M PF.Base/theme/adminpanel/default/style/default/css/layout.less
 - M PF.Base/theme/adminpanel/default/template/block.html.php
@@ -548,4 +552,5 @@
 - M PF.Src/Core/Installation/Key.php
 - M PF.Src/Core/Installation/Sftp.php
 - M PF.Src/Core/Language/Language.php
+- M PF.Src/Core/Lib.php
 - M PF.Src/Core/Theme/Objects.php
