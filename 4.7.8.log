@@ -117,6 +117,8 @@
 - M PF.Site/Apps/core/Install.php
 - M PF.Site/Apps/core/phrase.json
 - M PF.Site/Apps/core/start.php
+- M PF.Src/Core/App.php
 - M PF.Src/Core/Objectify.php
 - M PF.Src/Core/Phrase.php
+- M PF.Src/Core/Setting.php
 - M PF.Src/Core/Storage.php
