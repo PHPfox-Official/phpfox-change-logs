@@ -1,6 +1,7 @@
 - M PF.Base/.gitignore
 - M PF.Base/composer.json
 - A PF.Base/composer.lock
+
 - M PF.Base/include/init.inc.php
 - M PF.Base/include/library/phpfox/cdn/cdn.class.php
 - M PF.Base/include/library/phpfox/file/file.class.php
@@ -21,10 +22,12 @@
 - M PF.Base/include/library/phpfox/template/cache.class.php
 - M PF.Base/include/library/phpfox/template/template.class.php
 - M PF.Base/include/library/phpfox/url/url.class.php
+
 - M PF.Base/install/include/installer.class.php
 - M PF.Base/install/include/version.php
 - A PF.Base/install/include/version/4.8.4.php
 - M PF.Base/install/index.php
+
 - M PF.Base/less/base/blocks.less
 - M PF.Base/less/base/forms.less
 - M PF.Base/less/base/layout.less
@@ -35,6 +38,7 @@
 - M PF.Base/less/modules/feed.less
 - M PF.Base/less/modules/friend.less
 - M PF.Base/less/modules/profile.less
+
 - M PF.Base/module/admincp/include/component/ajax/ajax.class.php
 - M PF.Base/module/admincp/include/component/ajax/setting/ajax.class.php
 - M PF.Base/module/admincp/include/component/controller/apps/uploaded.class.php
@@ -222,10 +226,12 @@
 - M PF.Base/module/user/template/default/controller/register.html.php
 - M PF.Base/module/user/template/default/controller/setting.html.php
 - M PF.Base/module/user/template/default/controller/sms/send.html.php
+
 - M PF.Base/start.php
 - M PF.Base/static/jscript/admin.js
 - M PF.Base/static/jscript/dropzone.js
 - M PF.Base/static/jscript/main.js
+
 - M PF.Base/theme/adminpanel/default/style/default/css/layout.css
 - M PF.Base/theme/adminpanel/default/style/default/css/layout.less
 - M PF.Base/theme/adminpanel/default/template/error.html.php
@@ -235,7 +241,9 @@
 - M PF.Base/theme/frontend/default/style/default/css/asBreadcrumbs.min.css
 - A PF.Base/theme/frontend/default/style/default/image/misc/google.png
 - M PF.Base/theme/frontend/default/template/error.html.php
+
 - A PF.Base/tools/upgrade.php
+
 - A PF.Base/vendor/aws/aws-sdk-php/CODE_OF_CONDUCT.md
 - M PF.Base/vendor/aws/aws-sdk-php/composer.json
 - M PF.Base/vendor/aws/aws-sdk-php/src/ACMPCA/ACMPCAClient.php
@@ -1507,12 +1515,14 @@
 - M PF.Base/vendor/webmozart/assert/src/Assert.php
 - A PF.Base/vendor/webmozart/assert/src/InvalidArgumentException.php
 - M PF.Base/vendor/webmozart/assert/src/Mixin.php
+
 - M PF.Site/Apps/core-flavors/assets/autoload.js
 - M PF.Site/Apps/core-flavors/start.php
 - M PF.Site/Apps/core/Install.php
 - A PF.Site/Apps/core/Installation/Database/SearchWordLog.php
 - M PF.Site/Apps/core/phrase.json
 - M PF.Site/Apps/core/start.php
+
 - M PF.Src/Core/Assets/Manager.php
 - M PF.Src/Core/Flavor/Flavor.php
 - M PF.Src/Core/Installation/Manager.php
