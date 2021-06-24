@@ -58,6 +58,8 @@
 - M PF.Base/module/admincp/include/component/controller/setting/add.class.php
 - M PF.Base/module/admincp/include/component/controller/setting/edit.class.php
 - M PF.Base/module/admincp/include/service/admincp.class.php
+- M PF.Base/module/admincp/include/service/apps/apps.class.php
+- M PF.Base/module/admincp/include/service/callback.class.php
 - M PF.Base/module/admincp/include/service/maintain/deletefiles.class.php
 - M PF.Base/module/admincp/include/service/module/module.class.php
 - M PF.Base/module/admincp/include/service/module/process.class.php
@@ -145,6 +147,9 @@
 - M PF.Base/module/search/include/component/controller/admincp/searchwords.class.php
 - M PF.Base/module/search/template/default/controller/admincp/searchwords.html.php
 - M PF.Base/module/tag/include/service/tag.class.php
+- M PF.Base/module/track/include/service/process.class.php
+- M PF.Base/module/track/install/phpfox.xml.php
+- A PF.Base/module/track/install/version/4.8.6.xml.php
 - M PF.Base/module/user/include/component/ajax/ajax.class.php
 - M PF.Base/module/user/include/component/block/images.class.php
 - M PF.Base/module/user/include/component/block/tooltip.class.php
